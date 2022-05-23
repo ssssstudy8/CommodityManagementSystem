@@ -17,7 +17,7 @@ import { useStore } from 'vuex'
 const store = useStore()
 
 const squareUrl = ref(
-  'https://img0.baidu.com/it/u=1056811702,4111096278&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=500'
+  'https://tse3-mm.cn.bing.net/th/id/OIP-C.azZaNQpEUjnuR1hjCCifrQHaFj?w=237&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7'
 )
 
 const logout = () => {

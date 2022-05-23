@@ -7,7 +7,7 @@
       <screen-full class="navbar-item" />
       <Lang class="navbar-item" />
       <Avatar class="navbar-item" />
-    </div>  
+    </div>
   </div>
 </template>
 
